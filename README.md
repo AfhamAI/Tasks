@@ -24,6 +24,7 @@ The tasks i do in the leetdcode
 | [1952-three-divisors](https://github.com/AfhamAI/Tasks/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/AfhamAI/Tasks/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/AfhamAI/Tasks/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/AfhamAI/Tasks/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/AfhamAI/Tasks/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
@@ -43,6 +44,7 @@ The tasks i do in the leetdcode
 | ------- |
 | [1952-three-divisors](https://github.com/AfhamAI/Tasks/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/AfhamAI/Tasks/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/AfhamAI/Tasks/tree/master/2427-number-of-common-factors) |
 ## Trie
 |  |
 | ------- |
@@ -59,4 +61,5 @@ The tasks i do in the leetdcode
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/AfhamAI/Tasks/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/AfhamAI/Tasks/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
