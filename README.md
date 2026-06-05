@@ -19,6 +19,7 @@ The tasks i do in the leetdcode
 | [0009-palindrome-number](https://github.com/AfhamAI/Tasks/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AfhamAI/Tasks/tree/master/0013-roman-to-integer) |
 | [2235-add-two-integers](https://github.com/AfhamAI/Tasks/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/AfhamAI/Tasks/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/AfhamAI/Tasks/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
@@ -28,4 +29,8 @@ The tasks i do in the leetdcode
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AfhamAI/Tasks/tree/master/1929-concatenation-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/AfhamAI/Tasks/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
