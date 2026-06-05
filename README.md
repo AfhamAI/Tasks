@@ -10,6 +10,7 @@ The tasks i do in the leetdcode
 | [0014-longest-common-prefix](https://github.com/AfhamAI/Tasks/tree/master/0014-longest-common-prefix) |
 | [1929-concatenation-of-array](https://github.com/AfhamAI/Tasks/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AfhamAI/Tasks/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2974-minimum-number-game](https://github.com/AfhamAI/Tasks/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/AfhamAI/Tasks/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ The tasks i do in the leetdcode
 | ------- |
 | [0412-fizz-buzz](https://github.com/AfhamAI/Tasks/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/AfhamAI/Tasks/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/AfhamAI/Tasks/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/AfhamAI/Tasks/tree/master/3028-ant-on-the-boundary) |
 ## Number Theory
 |  |
@@ -66,4 +68,12 @@ The tasks i do in the leetdcode
 | ------- |
 | [1952-three-divisors](https://github.com/AfhamAI/Tasks/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/AfhamAI/Tasks/tree/master/2427-number-of-common-factors) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/AfhamAI/Tasks/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/AfhamAI/Tasks/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
