@@ -35,6 +35,7 @@ The tasks i do in the leetdcode
 | [0013-roman-to-integer](https://github.com/AfhamAI/Tasks/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AfhamAI/Tasks/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/AfhamAI/Tasks/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/AfhamAI/Tasks/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/AfhamAI/Tasks/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AfhamAI/Tasks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
