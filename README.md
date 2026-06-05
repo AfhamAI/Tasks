@@ -21,6 +21,7 @@ The tasks i do in the leetdcode
 | [0009-palindrome-number](https://github.com/AfhamAI/Tasks/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AfhamAI/Tasks/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/AfhamAI/Tasks/tree/master/0412-fizz-buzz) |
+| [1952-three-divisors](https://github.com/AfhamAI/Tasks/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/AfhamAI/Tasks/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/AfhamAI/Tasks/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/AfhamAI/Tasks/tree/master/2469-convert-the-temperature) |
@@ -40,6 +41,7 @@ The tasks i do in the leetdcode
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/AfhamAI/Tasks/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/AfhamAI/Tasks/tree/master/2413-smallest-even-multiple) |
 ## Trie
 |  |
@@ -53,4 +55,8 @@ The tasks i do in the leetdcode
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AfhamAI/Tasks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/AfhamAI/Tasks/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
