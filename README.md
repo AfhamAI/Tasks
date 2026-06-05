@@ -9,6 +9,7 @@ The tasks i do in the leetdcode
 | [0001-two-sum](https://github.com/AfhamAI/Tasks/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AfhamAI/Tasks/tree/master/0014-longest-common-prefix) |
 | [1929-concatenation-of-array](https://github.com/AfhamAI/Tasks/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AfhamAI/Tasks/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3028-ant-on-the-boundary](https://github.com/AfhamAI/Tasks/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ The tasks i do in the leetdcode
 | [0013-roman-to-integer](https://github.com/AfhamAI/Tasks/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/AfhamAI/Tasks/tree/master/0412-fizz-buzz) |
 | [1952-three-divisors](https://github.com/AfhamAI/Tasks/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AfhamAI/Tasks/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/AfhamAI/Tasks/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/AfhamAI/Tasks/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/AfhamAI/Tasks/tree/master/2427-number-of-common-factors) |
@@ -43,6 +45,7 @@ The tasks i do in the leetdcode
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/AfhamAI/Tasks/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AfhamAI/Tasks/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/AfhamAI/Tasks/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/AfhamAI/Tasks/tree/master/2427-number-of-common-factors) |
 ## Trie
