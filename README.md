@@ -9,6 +9,7 @@ The tasks i do in the leetdcode
 | [0001-two-sum](https://github.com/AfhamAI/Tasks/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AfhamAI/Tasks/tree/master/0014-longest-common-prefix) |
 | [1929-concatenation-of-array](https://github.com/AfhamAI/Tasks/tree/master/1929-concatenation-of-array) |
+| [3028-ant-on-the-boundary](https://github.com/AfhamAI/Tasks/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ The tasks i do in the leetdcode
 | ------- |
 | [0412-fizz-buzz](https://github.com/AfhamAI/Tasks/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/AfhamAI/Tasks/tree/master/1929-concatenation-of-array) |
+| [3028-ant-on-the-boundary](https://github.com/AfhamAI/Tasks/tree/master/3028-ant-on-the-boundary) |
 ## Number Theory
 |  |
 | ------- |
@@ -42,4 +44,8 @@ The tasks i do in the leetdcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AfhamAI/Tasks/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/AfhamAI/Tasks/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
