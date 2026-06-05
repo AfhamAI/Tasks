@@ -7,6 +7,7 @@ The tasks i do in the leetdcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AfhamAI/Tasks/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/AfhamAI/Tasks/tree/master/0014-longest-common-prefix) |
 | [1929-concatenation-of-array](https://github.com/AfhamAI/Tasks/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ The tasks i do in the leetdcode
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AfhamAI/Tasks/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AfhamAI/Tasks/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/AfhamAI/Tasks/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -36,4 +38,8 @@ The tasks i do in the leetdcode
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/AfhamAI/Tasks/tree/master/2413-smallest-even-multiple) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AfhamAI/Tasks/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
