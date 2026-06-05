@@ -39,6 +39,7 @@ The tasks i do in the leetdcode
 | [0709-to-lower-case](https://github.com/AfhamAI/Tasks/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/AfhamAI/Tasks/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AfhamAI/Tasks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2833-furthest-point-from-origin](https://github.com/AfhamAI/Tasks/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -79,4 +80,8 @@ The tasks i do in the leetdcode
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/AfhamAI/Tasks/tree/master/2974-minimum-number-game) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/AfhamAI/Tasks/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
