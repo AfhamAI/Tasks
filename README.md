@@ -17,6 +17,7 @@ The tasks i do in the leetdcode
 | ------- |
 | [0009-palindrome-number](https://github.com/AfhamAI/Tasks/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AfhamAI/Tasks/tree/master/0013-roman-to-integer) |
+| [2235-add-two-integers](https://github.com/AfhamAI/Tasks/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
