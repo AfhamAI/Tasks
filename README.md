@@ -7,6 +7,7 @@ The tasks i do in the leetdcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AfhamAI/Tasks/tree/master/0001-two-sum) |
+| [1929-concatenation-of-array](https://github.com/AfhamAI/Tasks/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,8 @@ The tasks i do in the leetdcode
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AfhamAI/Tasks/tree/master/0013-roman-to-integer) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/AfhamAI/Tasks/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
