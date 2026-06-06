@@ -33,6 +33,7 @@ The tasks i do in the leetdcode
 | [2427-number-of-common-factors](https://github.com/AfhamAI/Tasks/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/AfhamAI/Tasks/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AfhamAI/Tasks/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3099-harshad-number](https://github.com/AfhamAI/Tasks/tree/master/3099-harshad-number) |
 ## String
 |  |
 | ------- |
