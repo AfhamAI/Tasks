@@ -10,6 +10,7 @@ The tasks i do in the leetdcode
 | [0014-longest-common-prefix](https://github.com/AfhamAI/Tasks/tree/master/0014-longest-common-prefix) |
 | [1929-concatenation-of-array](https://github.com/AfhamAI/Tasks/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AfhamAI/Tasks/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AfhamAI/Tasks/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/AfhamAI/Tasks/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/AfhamAI/Tasks/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
@@ -30,6 +31,7 @@ The tasks i do in the leetdcode
 | [2413-smallest-even-multiple](https://github.com/AfhamAI/Tasks/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/AfhamAI/Tasks/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/AfhamAI/Tasks/tree/master/2469-convert-the-temperature) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AfhamAI/Tasks/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String
 |  |
 | ------- |
