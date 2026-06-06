@@ -23,6 +23,7 @@ The tasks i do in the leetdcode
 | [0009-palindrome-number](https://github.com/AfhamAI/Tasks/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AfhamAI/Tasks/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/AfhamAI/Tasks/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AfhamAI/Tasks/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1952-three-divisors](https://github.com/AfhamAI/Tasks/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AfhamAI/Tasks/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/AfhamAI/Tasks/tree/master/2235-add-two-integers) |
