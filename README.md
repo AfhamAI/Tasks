@@ -23,6 +23,7 @@ The tasks i do in the leetdcode
 | ------- |
 | [0009-palindrome-number](https://github.com/AfhamAI/Tasks/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AfhamAI/Tasks/tree/master/0013-roman-to-integer) |
+| [0367-valid-perfect-square](https://github.com/AfhamAI/Tasks/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AfhamAI/Tasks/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AfhamAI/Tasks/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1952-three-divisors](https://github.com/AfhamAI/Tasks/tree/master/1952-three-divisors) |
@@ -90,4 +91,8 @@ The tasks i do in the leetdcode
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/AfhamAI/Tasks/tree/master/2833-furthest-point-from-origin) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/AfhamAI/Tasks/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
