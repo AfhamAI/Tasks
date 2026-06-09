@@ -43,6 +43,7 @@ The tasks i do in the leetdcode
 | [0013-roman-to-integer](https://github.com/AfhamAI/Tasks/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AfhamAI/Tasks/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/AfhamAI/Tasks/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/AfhamAI/Tasks/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AfhamAI/Tasks/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/AfhamAI/Tasks/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/AfhamAI/Tasks/tree/master/0709-to-lower-case) |
