@@ -8,6 +8,7 @@ The tasks i do in the leetdcode
 | ------- |
 | [0001-two-sum](https://github.com/AfhamAI/Tasks/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AfhamAI/Tasks/tree/master/0014-longest-common-prefix) |
+| [1528-shuffle-string](https://github.com/AfhamAI/Tasks/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AfhamAI/Tasks/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/AfhamAI/Tasks/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/AfhamAI/Tasks/tree/master/1929-concatenation-of-array) |
@@ -49,6 +50,7 @@ The tasks i do in the leetdcode
 | [0657-robot-return-to-origin](https://github.com/AfhamAI/Tasks/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/AfhamAI/Tasks/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/AfhamAI/Tasks/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/AfhamAI/Tasks/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AfhamAI/Tasks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AfhamAI/Tasks/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/AfhamAI/Tasks/tree/master/1816-truncate-sentence) |
