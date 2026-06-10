@@ -17,6 +17,7 @@ The tasks i do in the leetdcode
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AfhamAI/Tasks/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AfhamAI/Tasks/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/AfhamAI/Tasks/tree/master/2974-minimum-number-game) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/AfhamAI/Tasks/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3028-ant-on-the-boundary](https://github.com/AfhamAI/Tasks/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
