@@ -8,6 +8,7 @@ The tasks i do in the leetdcode
 | ------- |
 | [0001-two-sum](https://github.com/AfhamAI/Tasks/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AfhamAI/Tasks/tree/master/0014-longest-common-prefix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AfhamAI/Tasks/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/AfhamAI/Tasks/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AfhamAI/Tasks/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/AfhamAI/Tasks/tree/master/1816-truncate-sentence) |
@@ -108,8 +109,13 @@ The tasks i do in the leetdcode
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/AfhamAI/Tasks/tree/master/0367-valid-perfect-square) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AfhamAI/Tasks/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AfhamAI/Tasks/tree/master/0557-reverse-words-in-a-string-iii) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AfhamAI/Tasks/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
