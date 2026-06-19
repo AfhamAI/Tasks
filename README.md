@@ -24,6 +24,7 @@ The tasks i do in the leetdcode
 | ------- |
 | [0001-two-sum](https://github.com/AfhamAI/Tasks/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AfhamAI/Tasks/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/AfhamAI/Tasks/tree/master/0242-valid-anagram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AfhamAI/Tasks/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
@@ -48,6 +49,7 @@ The tasks i do in the leetdcode
 | ------- |
 | [0013-roman-to-integer](https://github.com/AfhamAI/Tasks/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AfhamAI/Tasks/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/AfhamAI/Tasks/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/AfhamAI/Tasks/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/AfhamAI/Tasks/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AfhamAI/Tasks/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -96,6 +98,7 @@ The tasks i do in the leetdcode
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AfhamAI/Tasks/tree/master/0242-valid-anagram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AfhamAI/Tasks/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2974-minimum-number-game](https://github.com/AfhamAI/Tasks/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
