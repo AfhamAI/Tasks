@@ -122,4 +122,8 @@ The tasks i do in the leetdcode
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AfhamAI/Tasks/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/AfhamAI/Tasks/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
